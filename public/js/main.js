@@ -5,7 +5,7 @@ $(document).ready(function() {
     setupMyChatBox();
 
     // https://carop5js.herokuapp.com/
-    connect('https://carop5js.herokuapp.com/');
+    connect('https://caro-p5js.onrender.com/');
     setTooltip();
     init();
 
